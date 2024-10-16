@@ -84,7 +84,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
 - [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
 - [Live Website](https://brainwave-ui-by-shivam.netlify.app/)
 
